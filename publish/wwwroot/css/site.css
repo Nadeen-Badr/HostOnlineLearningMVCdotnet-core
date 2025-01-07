@@ -1,0 +1,13 @@
+/* Navbar Styling */
+body {
+  background: linear-gradient(135deg, #BB86FC, #03DAC5); /* Gradient from purple to aqua */
+  color: #E0E0E0; /* Light text color for contrast */
+}
+
+
+/* Ensure navbar is not overlapped by page content */
+
+.navbar-nav .nav-link:hover {
+  color: #A6E1FA !important; /* Light Aqua color on hover */
+  text-decoration: none !important;
+}
